@@ -1,13 +1,13 @@
-# Personal_Finances
+
+
+
+# Personal_Finances Project
 Data Analytics end to end project from data gathering until data viz dashboards
 
-# Project Name
-This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
-
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [Active]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to provide collect and clean data with the objective of describe current income vs expenses. Identify where the money is been spend and if the use of the money is optimal to the person/household objective, is there any saving and be able to identify how to save money by through smart purchase.
 
 ### Partner
 * [Name of Partner organization/Government department etc..]
