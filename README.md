@@ -1,81 +1,90 @@
 
+## Personal Expense Tracker and Analysis Project ##
 
+## Overview
+Since 2023, I have been tracking all my expenses by item in an Excel file. This project aims to clean, analyze, and visualize this data to gain insights into my spending habits, identify cost-saving opportunities, and showcase my skills in Python for data cleaning, analysis, and visualization. The cleaned data will also be used to create interactive reports in Power BI.
 
-# Personal_Finances Project
-Data Analytics end to end project from data gathering until data viz dashboards
+This project demonstrates my ability to:
+- Clean and preprocess raw data using Python.
+- Perform exploratory data analysis (EDA) to uncover trends and patterns.
+- Visualize data to communicate insights effectively.
+- Integrate Python with Power BI for reporting and dashboard creation.
 
-#### -- Project Status: [Active]
+## Project Goals
+1. **Data Cleaning and Preprocessing**:
+   - Clean the raw expense data to handle missing values, duplicates, and inconsistencies.
+   - Standardize the format of the data for analysis.
 
-## Project Intro/Objective
-The purpose of this project is to provide collect and clean data with the objective of describe current income vs expenses. Identify where the money is been spend and if the use of the money is optimal to the person/household objective, is there any saving and be able to identify how to save money by through smart purchase.
+2. **Data Analysis**:
+   - Analyze spending patterns by category (e.g., food shopping, entertainment, dog food, restaurants).
+   - Identify trends in expenses over time (monthly, weekly, yearly).
+   - Compare costs across stores to find the best value for groceries and restaurants.
+   - Evaluate spending relative to monthly income.
 
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
+3. **Data Visualization**:
+   - Create visualizations to show expense distribution, trends, and comparisons.
+   - Generate insights into where and how to optimize spending.
 
-### Methods Used
-* Inferential Statistics
-* Machine Learning
-* Data Visualization
-* Predictive Modeling
-* etc.
+4. **Power BI Integration**:
+   - Export cleaned data to Power BI for interactive reporting.
+   - Build dashboards to showcase expense analysis and insights.
 
-### Technologies
-* R 
-* Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
+## Data Description
+The dataset includes the following information for each purchase:
+- **Store**: The name of the store where the purchase was made.
+- **Item**: The name of the item purchased.
+- **Quantity**: The number of units purchased.
+- **Cost Per Unit**: The price of one unit of the item.
+- **Total Cost**: The total cost of the purchase (Quantity × Cost Per Unit).
+- **Category**: The category of the expense (e.g., food shopping, entertainment, dog food, restaurants).
+- **Date**: The date of the purchase.
 
-## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+## Tools and Technologies
+- **Python**: For data cleaning, analysis, and visualization.
+  - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly.
+- **Power BI**: For creating interactive dashboards and reports.
+- **Excel**: For initial data entry and storage.
 
-## Needs of this project
+## Project Structure
+```
+project-folder/
+│
+├── data/
+│   ├── raw/                  # Contains the original Excel file with raw data.
+│   └── processed/            # Contains cleaned and processed data files.
+│
+├── notebooks/
+│   ├── data_cleaning.ipynb   # Jupyter notebook for cleaning and preprocessing data.
+│   ├── data_analysis.ipynb   # Jupyter notebook for exploratory data analysis.
+│   └── data_viz.ipynb        # Jupyter notebook for creating visualizations.
+│
+├── scripts/
+│   ├── clean_data.py         # Python script for cleaning data.
+│   ├── analyze_data.py       # Python script for analyzing data.
+│   └── visualize_data.py     # Python script for generating visualizations.
+│
+├── reports/
+│   ├── power_bi/             # Contains Power BI files and dashboards.
+│   └── visualizations/       # Contains exported visualizations (e.g., PNG, PDF).
+│
+├── README.md                 # This file.
+└── requirements.txt          # List of Python dependencies.
+```
 
-- frontend developers
-- data exploration/descriptive statistics
-- data processing/cleaning
-- statistical modeling
-- writeup/reporting
-- etc. (be as specific as possible)
+## Key Insights
+- **Expense Distribution**: Breakdown of expenses by category (e.g., food shopping, entertainment).
+- **Trends Over Time**: Monthly, weekly, and yearly spending patterns.
+- **Cost Comparisons**: Identify stores with the best value for groceries and restaurants.
+- **Budget Control**: Analyze spending relative to monthly income and identify areas for optimization.
 
-## Getting Started
-
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-    
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
-
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
-
-
-## Contributing DSWG Members
-
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
-
-#### Other Members:
-
-|Name     |  Slack Handle   | 
-|---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
-
-## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
+## How to Use This Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/personal-expense-tracker.git
+   ```
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the data cleaning, analysis, and visualization scripts or notebooks.
+4. Open the Power BI files in the `reports/power_bi/` folder to explore the interactive dashboards.
