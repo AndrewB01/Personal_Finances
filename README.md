@@ -51,7 +51,7 @@ project-folder/
 │
 ├── data/
 │   ├── raw/                  # Contains the original Excel file with raw data.
-│   └── processed/            # Contains cleaned and processed data files.
+│   └── compile_raw_data/            # Contains cleaned and processed data files.
 │
 ├── notebooks/
 │   ├── data_cleaning.ipynb   # Jupyter notebook for cleaning and preprocessing data.
@@ -80,7 +80,7 @@ project-folder/
 ## How to Use This Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/personal-expense-tracker.git
+   git clone https://github.com/AndrewB01/Personal_Finances.git
    ```
 2. Install the required dependencies:
    ```bash
