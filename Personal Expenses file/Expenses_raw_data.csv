@@ -1,0 +1,1117 @@
+Date,Store,Type,Total
+2025-01-14,agua,groceries,27000.0
+2024-11-11,barberia,beauty,133000.0
+2025-02-28,mustaches,beauty,192000.0
+2024-10-17,peluqueria,beauty,25000.0
+2024-11-29,barberia,beauty,90000.0
+2025-01-01,grand hyatt,restaurant,535370.0
+2024-05-30,tigo,utilities,95065.0
+2024-06-28,tigo,utilities,95065.0
+2024-12-07,gorro ingrid,clothing,20000.0
+2024-12-15,super liquidator,clothing,41930.0
+2024-12-01,zara,clothing,399800.0
+2024-12-15,lasgatas,clothing,48250.0
+2024-11-06,decathalon,clothing,394000.0
+2024-12-15,monimo,clothing,32000.0
+2024-11-29,zara,clothing,180700.0
+2024-10-29,mercadolibre,gift,68000.0
+2024-10-29,mercadolibre,gift,53000.0
+2024-10-01,uber,transportation,6380.0
+2024-10-05,uber,transportation,25937.0
+2025-03-03,paseo archie,dog,20000.0
+2024-11-30,puppies,dog,91010.0
+2024-11-30,puppies,dog,302700.0
+2024-08-03,puppies,dog,75237.0
+2024-06-26,puppies,dog,68765.0
+2024-09-28,puppies,dog,185328.0
+2024-02-01,puppies,dog,9207.0
+2024-09-09,puppies,dog,60345.0
+2024-06-13,puppies,dog,123165.0
+2024-08-15,puppies,dog,239395.0
+2023-11-28,puppies,dog,29700.0
+2023-11-26,puppies,dog,26900.0
+2024-08-10,puppies,dog,61350.0
+2024-10-12,puppies,dog,50000.0
+2024-09-16,puppies,dog,88164.0
+2023-12-27,puppies,dog,24000.0
+2023-12-18,puppies,dog,56900.0
+2025-03-06,puppies,dog,73749.0
+2024-11-15,puppies,dog,328160.0
+2024-10-17,puppies,dog,75237.0
+2025-12-03,puppies,dog,73749.0
+2023-10-20,puppies,dog,4500.0
+2024-06-15,puppies,dog,100725.0
+2024-06-08,puppies,dog,75237.0
+2023-11-21,puppies,dog,570600.0
+2024-02-17,puppies,dog,268700.0
+2024-01-17,puppies,dog,99417.0
+2024-01-15,puppies,dog,345389.5
+2024-01-07,puppies,dog,89187.0
+2023-10-31,puppies,dog,29700.0
+2023-11-16,puppies,dog,4800.0
+2024-07-01,puppies,dog,68765.0
+2025-03-01,puppies,dog,135780.0
+2024-01-20,puppies,dog,24552.0
+2023-12-12,puppies,dog,19200.0
+2024-01-10,puppies,dog,108387.0
+2024-07-16,puppies,dog,75237.0
+2024-12-19,petgourmet,dog,41500.0
+2024-07-11,d1,pet,20650.0
+2024-07-22,puppies,dog,75237.0
+2024-07-12,puppies,dog,75237.0
+2025-02-28,pelupet,dog,106000.0
+2025-02-07,paseo archie,dog,40000.0
+2024-12-10,paseo archie,dog,40000.0
+2025-02-06,puppies,dog,25415.0
+2024-07-27,toysmart,entertainment,24900.0
+2024-06-24,panamericana,entertainment,49500.0
+2024-06-18,cinecolombia,entertainment,42200.0
+2024-08-30,icloud,entertainment,12900.0
+2024-01-31,casa ideas,entertainment,33200.0
+2024-06-14,farmatodo,entertainment,24950.0
+2024-06-15,jungla park,entertainment,110000.0
+2024-04-03,la tienda papelera,entertainment,13500.0
+2024-05-30,max,entertainment,53000.0
+2024-08-31,microsoft,entertainment,9999.0
+2024-08-12,panamericana,entertainment,113500.0
+2023-12-24,miniso,entertainment,39900.0
+2023-12-15,cinemark,entertainment,190950.0
+2024-07-02,cinecolombia,entertainment,79000.0
+2024-02-20,cinemark,entertainment,35600.0
+2024-08-17,jumbo,entertainment,30000.0
+2024-01-26,panamericana,entertainment,92900.0
+2024-09-01,cinemark,entertainment,20000.0
+2024-08-02,panamericana,entertainment,84300.0
+2024-01-31,panamericana,entertainment,46000.0
+2024-08-31,canva,entertainment,23000.0
+2024-07-09,jumbo,entertainment,2200.0
+2024-07-15,panamericana,entertainment,86000.0
+2024-01-09,panamericana,entertainment,25200.0
+2024-08-30,daflores,entertainment,134800.0
+2024-10-05,cinepolis,entertainment,56800.0
+2025-03-02,cinecolombia,entertainment,11600.0
+2024-11-10,tickets feria automovil,entertainment,70000.0
+2024-10-16,disney+,entertainment,34900.0
+2025-03-01,spotify,entertainment,26400.0
+2024-12-17,spotify,entertainment,26400.0
+2024-11-16,disney+,entertainment,34900.0
+2024-12-17,disney+,entertainment,34900.0
+2025-02-27,disney+,entertainment,34900.0
+2025-02-28,tuboleta,entertainment,314600.0
+2024-10-15,"tu arte, tu vino",entertainment,210000.0
+2024-12-18,cinecolombia,entertainment,33600.0
+2024-11-09,cinemark,entertainment,54800.0
+2025-03-01,cinema viziona,entertainment,31500.0
+2025-03-01,cinema viziona,entertainment,141000.0
+2025-03-01,cinema viziona,entertainment,20000.0
+2024-11-30,cinemark,entertainment,57700.0
+2024-11-07,cinemark,entertainment,55700.0
+2025-03-01,cinecolombia,entertainment,107400.0
+2024-11-07,icloud,entertainment,12900.0
+2024-11-30,cinemark,entertainment,127800.0
+2024-11-08,panamericana,entertainment,171000.0
+2024-11-13,mad radio,entertainment,21000.0
+2025-02-28,max,entertainment,64900.0
+2024-10-15,arreglo bici,entertainment,390000.0
+2024-12-18,cinecolombia,entertainment,82400.0
+2024-12-01,max,entertainment,64900.0
+2024-12-16,guiacereza,entertainment,13000.0
+2024-11-29,festa fin de año 2024,entertainment,1440000.0
+2024-11-29,icloud,entertainment,12900.0
+2024-09-05,d1,groceries,8740.0
+2024-07-24,d1,groceries,21550.0
+2024-08-02,d1,groceries,5240.0
+2024-08-03,d1,groceries,110110.0
+2024-10-26,d1,groceries,10750.0
+2024-08-06,d1,groceries,30379.0
+2024-08-15,d1,groceries,25900.0
+2024-07-16,d1,groceries,251060.0
+2024-11-21,d1,groceries,14890.0
+2024-08-28,d1,groceries,24230.0
+2024-09-02,d1,groceries,112170.0
+2024-11-23,d1,groceries,1750.0
+2024-10-26,d1,groceries,38670.0
+2024-11-24,d1,groceries,125040.0
+2024-11-25,d1,groceries,35730.0
+2024-11-30,d1,groceries,24700.0
+2024-10-01,d1,groceries,115330.0
+2024-11-09,d1,groceries,20830.0
+2024-10-24,d1,groceries,3990.0
+2024-07-13,d1,groceries,13749.0
+2023-10-19,d1,groceries,12690.0
+2024-06-15,d1,groceries,6940.0
+2024-06-16,d1,groceries,14340.0
+2024-06-17,d1,groceries,162010.0
+2024-06-23,d1,groceries,14440.0
+2024-06-26,d1,groceries,30380.0
+2024-05-27,d1,groceries,16580.0
+2024-12-18,d1,groceries,22950.0
+2024-06-29,d1,groceries,12590.0
+2023-11-13,d1,groceries,18520.0
+2024-11-30,d1,groceries,144850.0
+2024-06-10,d1,groceries,3990.0
+2023-10-13,d1,groceries,253160.0
+2024-07-08,d1,groceries,11930.0
+2024-07-23,d1,groceries,13440.0
+2023-12-08,cruz verde,healthcare,27100.0
+2023-12-20,cruz verde,healthcare,16600.0
+2024-07-02,cruz verde,healthcare,20378.0
+2024-01-31,d1,groceries,169450.0
+2023-11-12,d1,groceries,8380.0
+2023-11-04,d1,groceries,43910.0
+2025-03-09,d1,groceries,15260.0
+2023-10-28,d1,groceries,37910.0
+2023-10-21,d1,groceries,120630.0
+2024-06-08,d1,groceries,1750.0
+2024-02-07,d1,groceries,88750.0
+2023-11-15,d1,groceries,15520.0
+2024-01-04,farmatodo,groceries,13790.0
+2024-10-16,d1,groceries,69170.0
+2024-07-11,jumbo,groceries,5190.0
+2024-07-07,jumbo,groceries,9280.0
+2024-06-22,jumbo,groceries,22590.0
+2024-06-17,jumbo,groceries,35322.0
+2024-06-16,jumbo,groceries,7550.0
+2024-06-07,jumbo,groceries,25582.0
+2024-06-04,jumbo,groceries,67010.0
+2024-03-14,jumbo,groceries,227953.0
+2024-02-22,jumbo,groceries,32020.0
+2024-02-18,jumbo,groceries,9642.0
+2023-11-02,jumbo,groceries,64150.0
+2024-07-16,jumbo,groceries,36330.0
+2023-12-23,jumbo,groceries,45070.0
+2024-11-11,jumbo,groceries,51818.0
+2023-10-28,jumbo,groceries,56450.0
+2024-11-21,jumbo,groceries,10900.0
+2024-11-21,jumbo,groceries,33385.0
+2023-10-23,jumbo,groceries,15990.0
+2024-11-22,jumbo,groceries,39030.0
+2024-11-26,jumbo,groceries,2800.0
+2024-11-24,jumbo,groceries,167672.0
+2025-03-03,fruver,groceries,12700.0
+2024-07-09,fruvar,groceries,20689.0
+2024-09-02,fruvar,groceries,52444.0
+2025-02-19,jumbo,groceries,967.0
+2024-07-20,jumbo,groceries,41477.0
+2024-07-23,jumbo,groceries,41180.0
+2024-08-20,jumbo,groceries,22240.0
+2024-12-06,mercados de boyaca,groceries,74840.0
+2023-12-08,jumbo,groceries,4290.0
+2023-12-02,jumbo,groceries,9756.0
+2023-11-26,jumbo,groceries,9908.0
+2023-12-10,jumbo,groceries,10182.0
+2023-12-13,jumbo,groceries,22680.0
+2023-11-25,jumbo,groceries,24680.0
+2023-11-13,jumbo,groceries,30028.0
+2023-11-14,jumbo,groceries,14774.0
+2023-12-27,jumbo,groceries,57254.0
+2023-12-30,jumbo,groceries,57178.0
+2024-01-01,jumbo,groceries,4600.0
+2024-10-24,jumbo,groceries,10790.0
+2023-11-21,jumbo,groceries,34366.0
+2024-01-16,jumbo,groceries,27630.0
+2024-02-03,jumbo,groceries,172816.0
+2024-11-30,jumbo,groceries,303540.0
+2024-02-05,jumbo,groceries,51748.0
+2024-02-07,jumbo,groceries,27640.0
+2025-01-02,jumbo,groceries,37990.0
+2025-03-03,jumbo,groceries,5180.0
+2024-12-13,jumbo,groceries,39450.0
+2024-10-05,jumbo,groceries,31000.0
+2024-10-01,jumbo,groceries,207910.0
+2024-08-23,jumbo,groceries,14110.0
+2024-07-16,fruvar,groceries,73595.0
+2024-07-13,fruvar,groceries,1664.0
+2024-10-27,fruvar,groceries,6400.0
+2024-10-15,fruvar,groceries,16976.0
+2023-12-05,d1,groceries,23550.0
+2023-12-02,d1,groceries,18670.0
+2023-12-08,d1,groceries,13520.0
+2023-12-10,d1,groceries,27790.0
+2023-12-11,d1,groceries,34210.0
+2023-12-16,d1,groceries,23650.0
+2023-12-03,d1,groceries,35410.0
+2023-11-19,d1,groceries,12630.0
+2023-11-05,d1,groceries,25460.0
+2023-12-18,d1,groceries,69160.0
+2024-01-07,d1,groceries,39150.0
+2024-01-27,d1,groceries,26470.0
+2024-01-26,d1,groceries,16380.0
+2024-01-15,d1,groceries,15880.0
+2024-01-14,d1,groceries,13690.0
+2024-01-13,d1,groceries,39000.0
+2024-01-09,d1,groceries,36650.0
+2024-01-06,d1,groceries,14430.0
+2023-12-22,d1,groceries,10520.0
+2024-01-03,d1,groceries,3990.0
+2023-12-30,d1,groceries,23630.0
+2023-12-29,d1,groceries,39960.0
+2023-12-27,d1,groceries,13430.0
+2023-12-23,d1,groceries,35870.0
+2023-11-16,d1,groceries,30210.0
+2023-11-23,d1,groceries,6340.0
+2023-10-29,d1,groceries,9040.0
+2023-11-25,d1,groceries,12030.0
+2024-10-02,dollarcity,groceries,29000.0
+2024-07-08,fruvar,groceries,2258.0
+2024-11-24,fruvar,groceries,67655.0
+2024-10-26,fruvar,groceries,9165.0
+2024-07-05,fruvar,groceries,16155.0
+2024-06-22,fruvar,groceries,2358.0
+2024-06-17,fruvar,groceries,37470.0
+2024-10-26,fruvar,groceries,30931.0
+2024-06-24,fruvar,groceries,19954.0
+2023-10-13,fruvar,groceries,77081.0
+2024-06-01,fruvar,groceries,2157.0
+2023-12-16,fruvar,groceries,2112.0
+2024-02-12,fruvar,groceries,10156.0
+2024-01-20,farmatodo,groceries,18100.0
+2024-05-18,farmatodo,groceries,4200.0
+2024-01-25,farmatodo,groceries,16600.0
+2024-02-24,farmatodo,groceries,7100.0
+2024-11-11,farmatodo,groceries,49850.0
+2024-01-13,farmatodo,groceries,25800.0
+2023-12-28,farmatodo,groceries,6640.0
+2023-12-01,farmatodo,groceries,8450.0
+2024-12-05,exito,groceries,9190.0
+2023-10-27,exito,groceries,82500.0
+2023-12-02,exito,groceries,3100.0
+2024-06-22,dollarcity,groceries,12000.0
+2024-06-11,dollarcity,groceries,64400.0
+2023-11-18,dollarcity,groceries,52000.0
+2023-11-26,d1,groceries,22820.0
+2024-07-28,d1,groceries,17100.0
+2024-11-11,ara,groceries,19780.0
+2025-03-12,ara,groceries,21944.0
+2024-11-12,agua,groceries,40500.0
+2024-11-30,ara,groceries,143415.0
+2024-11-09,ara,groceries,29158.0
+2024-08-01,bacu,restaurant,51600.0
+2024-11-24,ara,groceries,121559.0
+2024-12-03,agua,groceries,27000.0
+2024-10-16,ara,groceries,126982.0
+2025-03-04,agua,groceries,28000.0
+2024-10-24,ara,groceries,18144.0
+2024-10-25,ara,groceries,5750.0
+2024-10-25,ara,groceries,8766.0
+2024-10-26,ara,groceries,6540.0
+2025-02-02,ara,groceries,7780.0
+2024-10-01,ara,groceries,201336.0
+2024-11-07,verona,snack,31000.0
+2024-10-23,ara,groceries,26691.0
+2024-10-16,agua,groceries,54000.0
+2023-12-29,tostao,snack,23100.0
+2025-03-06,ara,groceries,7030.0
+2025-01-26,ara,groceries,7090.0
+2023-12-17,carulla,groceries,11200.0
+2024-12-15,ara,groceries,72705.0
+2024-12-17,pricesmart,groceries,77400.0
+2023-12-26,carulla,groceries,6700.0
+2024-07-14,carulla,groceries,101255.0
+2024-01-01,carulla,groceries,20800.0
+2023-12-25,carulla,groceries,17400.0
+2024-11-08,mercadolibre,gift,376510.0
+2024-09-06,american eagle,gift,375840.0
+2024-10-16,h&m,clothing,24900.0
+2024-07-12,comercial papelera,papeleria,15400.0
+2024-11-08,starbucks,snack,26900.0
+2024-09-06,casa ideas,gift,6800.0
+2024-09-06,decathalon,gift,108000.0
+2024-07-10,falabella,gift,39990.0
+2024-07-12,falabella,gift,39990.0
+2024-08-31,minca,transportation,2045000.0
+2024-12-06,amazon.com,gift,178313.0
+2024-11-07,spining center,healthcare,930000.0
+2024-07-05,spining center,healthcare,750000.0
+2024-08-07,spining center,healthcare,930000.0
+2024-06-05,spining center,healthcare,750000.0
+2024-08-31,compensar,healthcare,33600.0
+2024-09-14,compensar,healthcare,24500.0
+2024-10-07,spining center,healthcare,930000.0
+2024-11-14,proteina,healthcare,240000.0
+2025-03-03,smartfit,healthcare,59900.0
+2024-09-07,spining center,healthcare,930000.0
+2025-03-03,smartfit,healthcare,89000.0
+2024-11-28,aportes en linea,healthcare,376400.0
+2024-08-30,aportes en linea,healthcare,386100.0
+2024-12-29,aportes en linea,healthcare,376400.0
+2024-10-30,eps premium,healthcare,96300.0
+2025-01-09,bono colsanitas,healthcare,42900.0
+2024-11-06,bono colsanitas,healthcare,42900.0
+2024-12-09,farmatodo,healthcare,14150.0
+2024-10-02,farmatodo,healthcare,66250.0
+2024-11-12,farmatodo,healthcare,152000.0
+2024-11-28,farmatodo,healthcare,42230.0
+2024-11-28,farmatodo,healthcare,42230.0
+2024-11-09,farmatodo,healthcare,105600.0
+2025-02-27,farmatodo,healthcare,111200.0
+2024-12-17,farmatodo,healthcare,96350.0
+2024-12-02,eps premium,healthcare,96300.0
+2024-05-30,emermedica,healthcare,145696.0
+2024-11-06,emermedica,healthcare,437088.0
+2024-08-30,emermedica,healthcare,145696.0
+2025-02-27,emermedica,healthcare,145696.0
+2024-10-31,bono sanitas,healthcare,30300.0
+2024-08-31,vitalhome,healthcare,54500.0
+2024-10-15,bono sanitas,healthcare,42900.0
+2025-01-02,bono medisanitas,healthcare,60600.0
+2024-12-02,bono medisanitas,healthcare,90900.0
+2024-12-09,drogeria titan,healthcare,20600.0
+2024-11-10,bono medisanitas,healthcare,60600.0
+2024-12-08,bono medisanitas,healthcare,30300.0
+2024-10-05,bono medisanitas,healthcare,85800.0
+2024-10-23,bono medisanitas,healthcare,30300.0
+2024-12-01,bono colsanitas,healthcare,42900.0
+2025-03-01,bono colsanitas,healthcare,45100.0
+2024-10-11,bono eps,healthcare,18200.0
+2024-12-10,bono colsanitas,healthcare,42900.0
+2024-10-31,bono colsanitas,healthcare,42900.0
+2025-03-01,bono colsanitas,healthcare,45100.0
+2024-11-09,bono colsanitas,healthcare,42900.0
+2024-10-15,bono sanitas,healthcare,42900.0
+2025-03-02,aportes en linea,healthcare,412600.0
+2024-10-03,farmatodo,healthcare,13750.0
+2025-03-03,cruz verde,healthcare,122004.0
+2024-11-06,medicines,healthcare,29925.0
+2024-11-06,medisanitas,healthcare,364350.0
+2024-10-15,medisanitas,healthcare,385350.0
+2025-01-29,aportes en linea,healthcare,376400.0
+2024-10-16,massaje,healthcare,32000.0
+2024-06-20,colsanitas,healthcare,30300.0
+2024-09-14,colsanitas,healthcare,54900.0
+2024-09-30,cruz verde,healthcare,156550.0
+2024-11-09,cruz verde,healthcare,136850.0
+2024-08-30,colsanitas,healthcare,385350.0
+2024-12-15,cruz verde,healthcare,65503.0
+2024-11-09,cruz verde,healthcare,57143.0
+2024-12-14,cruz verde,healthcare,26458.0
+2024-11-11,casa ideas,home shopping,196500.0
+2024-11-11,dollarcity,home shopping,32000.0
+2024-11-09,brissa,home shopping,287246.0
+2024-11-09,dollarcity,home shopping,84900.0
+2024-12-15,dollarcity,home shopping,19000.0
+2024-10-02,milagros,home shopping,100000.0
+2024-12-07,panamericana,home shopping,124400.0
+2024-12-13,easy,home shopping,59440.0
+2024-07-04,panamericana,home shopping,55800.0
+2024-06-30,cruz verde,healthcare,7600.0
+2024-07-03,cruz verde,healthcare,9863.0
+2024-07-15,cruz verde,healthcare,64960.0
+2024-02-15,farmatodo,healthcare,55400.0
+2024-01-16,colsubsidio,healthcare,12500.0
+2024-01-21,cruz verde,healthcare,167800.0
+2024-01-29,cruz verde,healthcare,8505.0
+2024-06-29,clinica del colon,healthcare,73000.0
+2023-12-27,cruz verde,healthcare,104105.0
+2024-01-09,cruz verde,healthcare,4500.0
+2024-06-21,natural light,healthcare,66800.0
+2024-06-11,farmatodo,healthcare,23800.0
+2024-07-29,cruz verde,healthcare,149183.0
+2024-12-06,vital home,healthcare,54900.0
+2024-11-08,vital home,healthcare,166200.0
+2024-11-15,vital home,healthcare,30000.0
+2024-11-22,vital home,healthcare,28000.0
+2024-11-08,vitalhome,healthcare,350000.0
+2024-11-29,vitalhome,healthcare,131500.0
+2024-11-29,vitalhome,healthcare,336000.0
+2024-08-30,vitalhome,healthcare,290000.0
+2024-11-22,vitalhome,healthcare,198000.0
+2024-12-27,tienda palera,papeleria,15000.0
+2024-08-02,central parking,parking,1300.0
+2024-10-05,parking,parking,600.0
+2025-01-29,prestamo,prestamo,400000.0
+2024-10-25,goyurt,restaurant,11900.0
+2023-12-16,hornitos,restaurant,82400.0
+2024-12-03,fullcarga,restaurant,79200.0
+2024-07-21,fusion urban food,restaurant,111800.0
+2024-11-07,hornitos,restaurant,19700.0
+2024-07-15,michelle,restaurant,14800.0
+2024-12-17,gurus,restaurant,55014.0
+2024-12-17,gurus,restaurant,12600.0
+2024-12-15,gurus,restaurant,33596.0
+2024-10-10,gurus,restaurant,97519.0
+2024-07-07,gurus,restaurant,38398.560000000005
+2024-06-10,gurus,restaurant,43392.0132
+2024-11-08,godo burger,restaurant,126060.0
+2024-06-23,gurus,restaurant,47299.99680000001
+2023-12-17,gurus,restaurant,61714.81
+2024-11-06,gordo bar,restaurant,196448.0
+2024-12-12,gordo bar,restaurant,202130.0
+2023-12-29,gurus,restaurant,68804.0
+2023-12-10,gurus,restaurant,44128.69
+2025-03-02,guatoque,restaurant,187489.0
+2024-11-15,la taqueria,restaurant,232613.0
+2024-10-16,buffalo wings,restaurant,178535.0
+2024-09-06,brasa roja,restaurant,46800.0
+2024-12-08,fillet station,restaurant,34200.0
+2025-03-07,fillet station,restaurant,32800.0
+2024-10-17,fillet station,restaurant,52700.0
+2025-01-10,fillet station,restaurant,58600.0
+2025-03-06,fillet station,restaurant,23900.0
+2024-07-17,burger king,restaurant,8600.0
+2025-03-08,morrillos,restaurant,139306.0
+2024-10-04,oma,restaurant,11800.0
+2024-11-10,oma,restaurant,11800.0
+2024-08-26,oma,restaurant,13800.0
+2024-08-13,oxxo,restaurant,11900.0
+2024-01-29,burger king,restaurant,69400.0
+2024-08-26,burger king,restaurant,8500.0
+2025-03-07,burger king,restaurant,9900.0
+2024-10-07,oxxo,restaurant,6600.0
+2023-12-01,mis carnes parrilla,restaurant,16900.0
+2024-07-10,fillet station,restaurant,19900.0
+2024-09-01,foodology,restaurant,13900.0
+2024-09-05,burger king,restaurant,8500.0
+2024-10-13,bubu burger,restaurant,127500.0
+2024-08-03,buffalo wings,restaurant,156180.36
+2024-09-12,buffalo wings,restaurant,159299.35
+2024-08-09,buffalo wings,restaurant,12500.0
+2023-11-28,buffalo wings,restaurant,123025.0
+2024-01-05,buffalo wings,restaurant,105600.0
+2024-02-21,buffalo wings,restaurant,12900.0
+2024-11-14,michelle,restaurant,14800.0
+2024-06-20,hornitos,restaurant,26600.0
+2024-11-07,burger king,restaurant,9000.0
+2024-10-02,burger king,restaurant,110300.0
+2024-08-05,burger king,restaurant,8500.0
+2024-07-04,burger king,restaurant,8500.0
+2024-08-12,burger king,restaurant,8500.0
+2024-08-24,michelle,restaurant,14800.0
+2023-11-30,mis carnes parrilla,restaurant,46800.0
+2024-10-17,burger king,restaurant,9000.0
+2024-11-06,hornitos,restaurant,13600.0
+2024-11-10,mcdonalds,restaurant,89760.0
+2024-12-12,hornitos,restaurant,59350.0
+2025-03-05,little caesar,restaurant,46300.0
+2024-08-10,alpina,restaurant,7500.0
+2024-11-09,mazorcas,restaurant,14000.0
+2024-08-11,mcdonalds,restaurant,75800.62
+2024-08-31,mcdonalds,restaurant,77800.0
+2025-03-08,mcdonalds,restaurant,71800.0
+2024-05-23,little caesar,restaurant,57800.0
+2024-09-08,mcdonalds,restaurant,85700.41
+2024-08-05,mcdonalds,restaurant,75800.62
+2024-08-31,archies,restaurant,139100.0
+2024-08-12,archies,restaurant,111100.0
+2024-10-15,jumbo,restaurant,59020.0
+2024-12-13,archies,restaurant,133900.0
+2024-07-31,archies,restaurant,118000.0
+2024-11-22,mcdonalds,restaurant,60640.0
+2024-12-01,le patissier,restaurant,39900.0
+2024-12-01,le grand mamma,restaurant,183556.0
+2023-12-05,andres dc,restaurant,57300.0
+2024-08-30,la taqueria,restaurant,165999.996
+2024-12-19,la taqueria,restaurant,272000.0
+2024-12-17,la lucha sangucheria,restaurant,83501.0
+2024-10-12,la birra del gordo,restaurant,102000.0
+2025-02-28,la birra del gordo,restaurant,92300.0
+2024-11-07,la biferia,restaurant,220048.0
+2024-11-28,la biferia,restaurant,170226.0
+2024-11-28,la biferia,restaurant,170226.0
+2024-11-14,la75,restaurant,15900.0
+2024-05-11,kutty,restaurant,44399.0
+2024-09-29,kutty,restaurant,43000.0
+2024-10-06,kutty,restaurant,44500.0
+2024-10-13,kutty,restaurant,46800.0
+2025-03-08,kutty,restaurant,61950.0
+2024-11-29,ko,restaurant,255120.0
+2024-06-01,archies,restaurant,127600.0
+2024-07-13,archies,restaurant,84200.0
+2024-07-04,archies,restaurant,115000.0
+2024-02-11,archies,restaurant,58400.0
+2024-01-21,mcdonalds,restaurant,75800.0
+2024-02-06,mcdonalds,restaurant,75800.0
+2024-12-19,la taqueria,restaurant,271619.0
+2024-10-07,mcdonalds,restaurant,76800.0
+2024-01-24,juan valdez,restaurant,15000.0
+2023-12-01,juan valdez,restaurant,8800.0
+2024-06-22,juan valdez,restaurant,20300.0
+2024-12-11,alparke,restaurant,84000.0
+2024-06-16,merengazo,restaurant,17000.0
+2024-12-09,hornitos,restaurant,24200.0
+2025-03-03,hornitos,restaurant,94100.0
+2025-03-01,hornitos,restaurant,50150.0
+2024-10-16,hornitos,restaurant,7400.0
+2024-11-10,hornitos,restaurant,61750.0
+2024-11-01,hornitos,restaurant,5000.0
+2023-12-12,mcdonalds,restaurant,69800.0
+2024-11-06,hornitos,restaurant,42800.0
+2024-01-17,mcdonalds,restaurant,75800.0
+2024-01-08,mcdonalds,restaurant,90700.0
+2024-12-08,arepas y embueltos,restaurant,35100.0
+2024-12-07,arepas y embueltos,restaurant,19100.0
+2024-09-05,mcdonalds,restaurant,72010.0
+2024-12-18,bacu,restaurant,54193.0
+2025-02-04,bacu,restaurant,11900.0
+2024-02-01,mcdonalds,restaurant,75800.0
+2024-12-10,bacu,restaurant,117453.0
+2024-11-13,mcdonalds,restaurant,77800.0
+2024-02-18,mcdonalds,restaurant,75800.0
+2025-02-27,bacu,restaurant,67686.0
+2024-12-15,bacu,restaurant,131220.0
+2024-10-15,mcdonalds,restaurant,48800.0
+2024-06-14,bacu,restaurant,93400.0
+2025-03-01,bacu,restaurant,119093.0
+2024-08-31,bagel shop,restaurant,63000.0
+2023-12-05,mcdonalds,restaurant,6900.0
+2024-08-10,charlotte pasteleria,restaurant,32700.0
+2024-12-07,,restaurant,27800.0
+2024-12-13,,restaurant,48485.0
+2024-07-15,semolina,restaurant,143099.9568
+2024-07-16,rey guerrero,restaurant,155000.0
+2024-12-11,reserva tramonti,restaurant,120000.0
+2024-10-06,rappi,restaurant,82900.0
+2024-12-15,rappi,restaurant,98700.0
+2024-09-08,rappi,restaurant,11400.0
+2024-07-30,randys,restaurant,95800.0
+2024-02-04,randys,restaurant,62400.0
+2024-06-11,randys,restaurant,71800.0
+2024-07-17,randys,restaurant,35900.0
+2024-09-11,randys,restaurant,104700.0
+2024-08-20,randys,restaurant,113600.0
+2024-08-22,randys,restaurant,47900.0
+2024-01-10,randys,restaurant,146600.0
+2024-01-31,randys,restaurant,71800.0
+2025-03-04,randys,restaurant,97800.0
+2024-01-04,randys,restaurant,88300.0
+2023-11-23,randys,restaurant,73300.0
+2024-11-26,randys,restaurant,47900.0
+2024-11-19,randys,restaurant,56400.0
+2024-11-14,randys,restaurant,95800.0
+2024-11-05,semolina,restaurant,227478.0
+2024-06-15,semolina,restaurant,153055.44
+2024-12-11,semolina,restaurant,91341.0
+2024-12-14,sipote burrito,restaurant,104340.0
+2024-10-03,vending machine,restaurant,1500.0
+2024-10-07,tostao,restaurant,8800.0
+2024-10-10,tostao,restaurant,6800.0
+2024-10-05,tostao,restaurant,5300.0
+2024-08-30,torta francesa,restaurant,14100.0
+2023-12-01,tipicas,restaurant,12800.0
+2025-03-09,suizo pontevedra,restaurant,4000.0
+2025-03-09,suizo pontevedra,restaurant,37000.0
+2024-11-07,sushi nogal,restaurant,15900.0
+2024-11-10,subway,restaurant,57900.0
+2024-11-11,randys,restaurant,47900.0
+2024-10-04,subway,restaurant,25100.0
+2024-11-09,street bao,restaurant,105000.0
+2023-12-21,steak,restaurant,24900.0
+2024-08-02,starbucks,restaurant,16900.0
+2024-08-31,starbucks,restaurant,41615.0
+2024-06-01,starbucks,restaurant,13500.0
+2024-07-07,starbucks,restaurant,107700.0
+2024-10-09,farmatodo,restaurant,15600.0
+2023-12-04,sipote burrito,restaurant,79800.0
+2023-12-28,sipote burrito,restaurant,80000.0
+2024-11-20,sipote burrito,restaurant,82700.0
+2024-10-07,street food,restaurant,10000.0
+2024-10-03,vending machine,restaurant,2800.0
+2024-12-03,randys,restaurant,47900.0
+2025-03-07,randys,restaurant,48900.0
+2024-06-21,corral gourmet,restaurant,118800.0
+2024-02-06,corral gourmet,restaurant,41800.0
+2024-01-24,corral gourmet,restaurant,147400.0
+2024-01-16,corral gourmet,restaurant,165100.0
+2024-01-12,corral gourmet,restaurant,127600.0
+2023-11-27,el corral,restaurant,36900.0
+2024-09-01,compensar,restaurant,50300.0
+2024-07-01,popsy,restaurant,7500.0
+2023-12-17,pizza hut,restaurant,46900.0
+2024-01-18,papa johns,restaurant,64800.0
+2024-08-16,coctel del mar,restaurant,127100.0
+2024-01-13,papa johns,restaurant,60600.0
+2024-01-15,carbon & xilvestre,restaurant,66900.0
+2024-10-06,cinepolis,restaurant,94300.0
+2023-11-30,carbon place,restaurant,26800.0
+2024-12-02,carbon & xilvestre,restaurant,210870.0
+2024-10-14,el carnal,restaurant,48300.0
+2024-09-08,cinemark,restaurant,208100.0
+2024-10-17,el carnal,restaurant,25400.0
+2024-07-06,carulla,restaurant,14400.0
+2024-06-22,casa paella,restaurant,209900.0
+2024-06-22,corral gourmet,restaurant,23800.0
+2024-07-29,corral gourmet,restaurant,142200.0
+2025-03-10,corrientaso,restaurant,36000.0
+2024-09-07,cosette,restaurant,216200.0
+2025-03-06,randys,restaurant,48900.0
+2024-10-11,popsy,restaurant,27400.0
+2024-08-23,popsy,restaurant,21800.0
+2024-10-16,crepes & waffles,restaurant,14900.0
+2024-09-30,crepes & waffles,restaurant,15900.0
+2024-08-01,crepes & waffles,restaurant,80800.0
+2024-07-19,crepes & waffles,restaurant,99700.0
+2024-07-04,crepes & waffles,restaurant,14900.0
+2024-10-29,crepes & waffles,restaurant,112500.0
+2024-07-01,crepes & waffles,restaurant,95699.0
+2024-10-09,randys,restaurant,107800.0
+2023-11-30,crepes & waffles,restaurant,20700.0
+2024-01-27,crepes & waffles,restaurant,14400.0
+2024-12-14,crepes & waffles,restaurant,15300.0
+2023-12-14,crepes & waffles,restaurant,6800.0
+2024-11-12,crepes & waffles,restaurant,111400.0
+2024-01-12,crepes & waffles,restaurant,21200.0
+2024-11-11,crepes & waffles,restaurant,15400.0
+2024-01-23,crepes & waffles,restaurant,115700.0
+2024-09-01,crepes & waffles,restaurant,68700.0
+2024-08-26,crepes & waffles,restaurant,54400.0
+2024-08-02,crepes & waffles,restaurant,94500.0
+2024-11-20,crepes & waffles,restaurant,28800.0
+2024-10-03,vending machine,restaurant,2500.0
+2024-01-25,sipote burrito,restaurant,29400.0
+2024-06-22,deli,restaurant,5900.0
+2025-03-06,el carnal,restaurant,26800.0
+2024-08-23,el carnal,restaurant,36400.0
+2024-11-26,el carnal,restaurant,20900.0
+2024-07-10,el carnal,restaurant,46300.0
+2024-10-30,el carnal,restaurant,48300.0
+2024-06-14,el carnal,restaurant,26400.0
+2025-03-07,el carnal,restaurant,16900.0
+2025-03-09,el cañon del chicamocha,restaurant,115800.0
+2024-11-11,el carnal,restaurant,52300.0
+2024-06-16,palos de leña,restaurant,176800.0
+2024-12-09,pan pa ya,restaurant,61500.0
+2024-06-19,pan pa ya,restaurant,53100.0
+2024-10-07,pan pa ya,restaurant,50100.0
+2024-01-24,dunkin donuts,restaurant,5000.0
+2024-02-11,dunkin donuts,restaurant,25000.0
+2024-06-08,wok,restaurant,143300.0
+2024-11-23,palos de leña,restaurant,127500.0
+2024-09-12,dunkin donuts,restaurant,8500.0
+2025-01-11,el chocolo de katerin,restaurant,28600.0
+2024-10-04,el corral,restaurant,33900.0
+2024-10-09,farmatodo,restaurant,15600.0
+2024-12-08,,restaurant,13800.0
+2024-12-08,,restaurant,89162.0
+2024-12-08,,restaurant,58000.0
+2024-01-19,paramarte,restaurant,57800.0
+2024-07-03,farmatodo,restaurant,3950.0
+2024-11-03,,restaurant,30100.0
+2024-10-03,vending machine,restaurant,2300.0
+2024-10-03,wok,restaurant,226500.0
+2024-07-20,el corral,restaurant,62800.0
+2024-08-17,el corral,restaurant,33900.0
+2024-12-03,el corral,restaurant,62900.0
+2024-11-19,el corral,restaurant,41900.0
+2024-08-19,el corral,restaurant,40900.0
+2024-07-17,el corral,restaurant,41900.0
+2024-09-01,el corral,restaurant,39900.0
+2024-12-17,nectaria,restaurant,27800.0
+2024-06-14,dunkin donuts,restaurant,8000.0
+2024-02-24,el corral,restaurant,58800.0
+2024-07-04,dunkin donuts,restaurant,8500.0
+2024-10-03,drogeria san remo,restaurant,4000.0
+2024-10-10,drogeria san remo,restaurant,4300.0
+2024-07-06,drogeria egs,restaurant,25100.0
+2024-01-31,dorotea,restaurant,22000.0
+2024-02-20,dorotea,restaurant,41900.0
+2025-03-02,don romero,restaurant,116900.0
+2025-02-01,don rome,restaurant,121770.0
+2024-10-04,dominos,restaurant,49300.0
+2024-11-29,dominos,restaurant,56300.0
+2023-12-19,dominos,restaurant,68800.0
+2024-10-04,dominos,restaurant,6500.0
+2024-01-23,diner,restaurant,113148.0
+2024-02-08,wahaka,restaurant,118300.0
+2024-10-11,dunkin donuts,restaurant,40000.0
+2024-01-01,dominos,restaurant,62800.0
+2024-06-01,dominos,restaurant,55900.0
+2024-10-02,whopperking,restaurant,59400.03999999999
+2024-10-04,drogeria san remo,restaurant,7000.0
+2024-07-30,dunkin donuts,restaurant,28000.0
+2023-12-22,dorotea,restaurant,23000.0
+2024-01-28,dominos,restaurant,70400.0
+2024-07-22,dunkin donuts,restaurant,11000.0
+2024-11-08,wok,restaurant,184300.0
+2024-07-30,dunkin donuts,restaurant,2000.0
+2024-09-01,dunkin donuts,restaurant,8500.0
+2024-08-30,dunkin donuts,restaurant,58500.0
+2024-01-27,wok,restaurant,176000.0
+2024-08-05,dunkin donuts,restaurant,33000.0
+2024-12-04,wok,restaurant,224900.0
+2024-08-02,mcdonalds,restaurant,63800.0
+2024-08-27,oxxo,snack,4600.0
+2024-08-26,oxxo,snack,14550.0
+2024-08-24,oxxo,snack,4300.0
+2024-08-22,oxxo,snack,18810.0
+2024-08-17,oxxo,snack,15700.0
+2024-10-10,oxxo,snack,6600.0
+2025-03-07,,snack,18900.0
+2024-11-25,oxxo,snack,1900.0
+2024-08-16,oxxo,snack,14100.0
+2024-08-15,oxxo,snack,13700.0
+2024-08-10,oxxo,snack,11000.0
+2023-11-15,oxxo,snack,2800.0
+2025-03-12,,snack,3500.0
+2024-09-09,oxxo,snack,6600.0
+2024-08-28,oxxo,snack,6600.0
+2024-10-28,oxxo,snack,6800.0
+2024-02-15,oxxo,snack,4950.0
+2024-10-30,oxxo,snack,10550.0
+2024-10-30,oxxo,snack,8900.0
+2024-10-31,oxxo,snack,13200.0
+2024-11-03,oxxo,snack,5600.0
+2024-07-02,oxxo,snack,7500.0
+2024-10-10,oxxo,snack,10800.0
+2024-02-09,oxxo,snack,9800.0
+2024-11-06,oxxo,snack,5600.0
+2024-10-03,oxxo,snack,6600.0
+2024-10-28,oxxo,snack,6800.0
+2024-06-18,oxxo,snack,7000.0
+2024-08-08,oxxo,snack,7950.0
+2024-10-23,oxxo,snack,18450.0
+2024-07-04,oxxo,snack,7700.0
+2024-10-15,oxxo,snack,6600.0
+2024-10-12,oxxo,snack,7950.0
+2024-10-11,oxxo,snack,6500.0
+2024-10-03,oxxo,snack,10300.0
+2024-10-23,oxxo,snack,18450.0
+2024-07-05,oxxo,snack,7450.0
+2024-11-27,oxxo,snack,6950.0
+2024-11-23,oxxo,snack,20350.0
+2024-09-02,oxxo,snack,17700.0
+2024-07-08,oxxo,snack,6700.0
+2024-01-14,oxxo,snack,6000.0
+2025-03-07,,snack,18900.0
+2024-02-03,oxxo,snack,5600.0
+2024-10-01,oxxo,snack,7900.0
+2024-09-10,oxxo,snack,16000.0
+2024-11-28,oxxo,snack,6700.0
+2023-12-07,oxxo,snack,29200.0
+2024-11-07,oxxo,snack,19100.0
+2023-12-29,oxxo,snack,5400.0
+2024-10-02,oxxo,snack,6600.0
+2024-07-22,oxxo,snack,7300.0
+2023-12-22,oxxo,snack,3800.0
+2023-12-09,oxxo,snack,18950.0
+2023-11-12,oxxo,snack,26500.0
+2025-03-01,sbarro,snack,30400.0
+2024-07-15,oxxo,snack,6050.0
+2024-09-20,oxxo,snack,12894.0
+2025-02-28,tienda dietetica,snack,10100.0
+2024-12-04,tienda libertario cafe,snack,40399.0
+2024-12-05,,snack,1500.0
+2025-01-07,,snack,2500.0
+2024-07-31,oxxo,snack,9500.0
+2024-07-30,oxxo,snack,8300.0
+2024-07-29,oxxo,snack,13400.0
+2023-12-03,oxxo,snack,24000.0
+2024-11-28,,snack,2500.0
+2025-03-02,passaro,snack,30900.0
+2025-03-11,,snack,1200.0
+2024-11-14,oxxo,snack,10050.0
+2024-11-13,oxxo,snack,33900.0
+2024-10-05,oxxo,snack,7400.0
+2024-11-15,oxxo,snack,7700.0
+2024-11-15,oxxo,snack,12900.0
+2024-11-07,oxxo,snack,6600.0
+2024-08-29,oxxo,snack,6600.0
+2024-11-19,oxxo,snack,6600.0
+2023-11-14,oxxo,snack,26000.0
+2024-11-13,oxxo,snack,9550.0
+2024-10-29,oxxo,snack,5500.0
+2025-03-13,,snack,2600.0
+2025-03-05,oxxo,snack,6900.0
+2024-10-11,dunkin donuts,snack,21500.0
+2024-10-11,dunkin donuts,snack,18500.0
+2024-12-12,dunkin donuts,snack,9500.0
+2024-11-27,dunkin donuts,snack,9500.0
+2024-12-13,dunkin donuts,snack,8500.0
+2024-10-23,dunkin donuts,snack,8500.0
+2024-10-01,dunkin donuts,snack,8500.0
+2024-11-30,dunkin donuts,snack,8500.0
+2024-12-10,dunkin donuts,snack,9500.0
+2024-10-15,donut factory,snack,37800.0
+2025-11-03,el chocolo,snack,10800.0
+2024-11-23,nectaria,snack,27800.0
+2025-03-12,,snack,7000.0
+2025-03-06,farmatodo,snack,19250.0
+2025-03-08,farmatodo,snack,23550.0
+2025-03-04,farmatodo,snack,32100.0
+2024-11-22,foodology,snack,13900.0
+2024-10-08,foodology,snack,13000.0
+2024-12-07,eds la texana,snack,32700.0
+2024-11-23,dunkin donuts,snack,9500.0
+2024-10-25,dunkin donuts,snack,23500.0
+2025-03-08,dunkin donuts,snack,19500.0
+2024-12-01,oxxo,snack,17200.0
+2024-12-08,cafe quindio,snack,10100.0
+2024-12-12,cafe quindio,snack,20700.0
+2024-12-03,cafe quindio,snack,10100.0
+2024-10-22,cafe quindio,snack,10100.0
+2024-11-28,cafe quindio,snack,10100.0
+2024-11-14,cafe quindio,snack,10100.0
+2024-11-28,cafe quindio,snack,10100.0
+2024-11-26,cafe quindio,snack,18200.0
+2024-11-19,cafe quindio,snack,10600.0
+2024-11-22,cafe quindio,snack,31300.0
+2025-03-09,foodology,snack,13900.0
+2024-12-11,coliseo live,snack,23000.0
+2024-12-11,coliseo live,snack,8000.0
+2024-12-11,coliseo live,snack,8000.0
+2024-12-01,colo colo café,snack,52663.0
+2024-12-14,dunkin donuts,snack,9500.0
+2024-12-13,dunkin donuts,snack,9500.0
+2024-10-30,dunkin donuts,snack,8500.0
+2024-12-12,foodology,snack,18900.0
+2024-11-19,foodology,snack,18900.0
+2025-01-13,dunkin donuts,snack,9500.0
+2025-01-16,oxxo,snack,8400.0
+2024-11-30,oxxo,snack,6600.0
+2025-01-20,oxxo,snack,7100.0
+2025-01-23,oxxo,snack,7500.0
+2025-01-31,oxxo,snack,7200.0
+2025-01-08,oxxo,snack,14600.0
+2024-12-04,oxxo,snack,6600.0
+2024-12-05,oxxo,snack,4450.0
+2025-02-15,oxxo,snack,7400.0
+2025-02-01,oxxo,snack,2300.0
+2025-02-21,oxxo,snack,7400.0
+2025-03-06,oxxo,snack,6900.0
+2025-03-14,oxxo,snack,6900.0
+2025-03-07,oxxo,snack,18400.0
+2025-03-09,oxxo,snack,11300.0
+2024-12-18,oxxo,snack,14500.0
+2025-03-05,oxxo,snack,8100.0
+2025-01-15,oxxo,snack,14500.0
+2024-11-26,obleas la villa,snack,7900.0
+2024-11-27,obleas la villa,snack,8900.0
+2024-12-06,oxxo,snack,11850.0
+2024-12-01,juan valdez,snack,12700.0
+2024-12-03,la75,snack,9000.0
+2024-11-27,la75,snack,9000.0
+2024-12-18,oxxo,snack,10500.0
+2025-03-15,oxxo,snack,7400.0
+2025-03-03,oxxo,snack,6400.0
+2024-12-06,oxxo,snack,4450.0
+2025-03-04,oxxo,snack,15250.0
+2024-12-03,oxxo,snack,6600.0
+2025-03-01,oxxo,snack,6150.0
+2025-03-05,oxxo,snack,10900.0
+2024-11-23,baskin robbins,snack,8500.0
+2024-12-02,american cheese cake,snack,20800.0
+2024-12-02,mr bono,snack,11200.0
+2025-03-08,nectaria,snack,27800.0
+2024-12-16,oxxo,snack,4450.0
+2025-03-11,oxxo,snack,7400.0
+2025-01-29,icloud,cloud services,12900.0
+2025-02-28,icloud,cloud services,12900.0
+2024-11-23,dollarcity,party,137000.0
+2024-11-23,casa ideas,party,14900.0
+2025-02-27,clase dibujo,training,184000.0
+2024-12-04,data camp,training,334679.0
+2025-01-12,cabify,transportation,5553.0
+2024-12-18,cabify,transportation,7992.0
+2024-12-18,cabify,transportation,19614.0
+2024-12-18,cabify,transportation,18094.0
+2024-12-17,cabify,transportation,23294.0
+2024-02-24,cabify,transportation,18973.0
+2024-10-29,transmilenio,transportation,9200.0
+2024-11-28,transmilenio,transportation,10200.0
+2024-11-25,transmilenio,transportation,9200.0
+2025-03-03,transmilenio,transportation,50000.0
+2024-06-16,cabify,transportation,29398.0
+2024-11-30,cabify,transportation,17568.0
+2025-02-08,cabify,transportation,20125.0
+2024-12-17,cabify,transportation,17808.0
+2024-12-17,cabify,transportation,14813.0
+2024-12-09,cabify,transportation,44973.0
+2024-12-09,cabify,transportation,33416.0
+2024-11-10,cabify,transportation,23560.0
+2024-10-23,transmilenio,transportation,20000.0
+2025-02-28,cabify,transportation,21262.0
+2025-03-04,cabify,transportation,14899.0
+2025-02-28,cabify,transportation,29721.0
+2024-12-06,cabify,transportation,18516.0
+2024-11-10,cabify,transportation,16426.0
+2024-11-10,cabify,transportation,21066.0
+2024-12-09,cabify,transportation,62240.0
+2025-03-09,cabify,transportation,21234.0
+2025-03-09,cabify,transportation,20881.0
+2025-03-08,cabify,transportation,14945.0
+2025-03-08,cabify,transportation,22791.0
+2024-10-22,cabify,transportation,10715.0
+2025-03-08,cabify,transportation,16888.0
+2025-03-05,cabify,transportation,17207.0
+2024-12-08,cabify,transportation,41420.0
+2025-03-04,cabify,transportation,18102.0
+2025-03-03,cabify,transportation,21939.0
+2025-03-03,cabify,transportation,15034.0
+2025-03-02,cabify,transportation,19158.0
+2025-03-01,cabify,transportation,16290.0
+2025-03-01,cabify,transportation,28662.0
+2025-03-01,cabify,transportation,22490.0
+2025-02-28,cabify,transportation,18088.0
+2025-03-05,uber,transportation,29800.0
+2024-06-01,cabify,transportation,64686.0
+2024-12-30,uber,transportation,3000.0
+2024-06-22,cabify,transportation,46892.0
+2024-05-25,cabify,transportation,12877.0
+2024-09-15,cabify,transportation,16030.0
+2024-06-20,cabify,transportation,96501.0
+2024-06-15,cabify,transportation,4504.0
+2024-06-02,cabify,transportation,34578.0
+2024-11-10,cabify,transportation,12062.0
+2024-09-15,cabify,transportation,19072.0
+2024-06-14,cabify,transportation,74931.0
+2024-06-06,cabify,transportation,43796.0
+2024-05-31,cabify,transportation,45977.0
+2024-09-27,cabify,transportation,16060.0
+2024-09-15,cabify,transportation,15330.0
+2024-09-17,cabify,transportation,19414.0
+2024-06-05,cabify,transportation,28516.0
+2024-09-27,cabify,transportation,15401.0
+2024-05-30,cabify,transportation,27085.0
+2024-09-14,cabify,transportation,16401.0
+2024-06-19,cabify,transportation,54767.0
+2024-07-05,cabify,transportation,11366.0
+2024-02-20,cabify,transportation,10209.0
+2024-02-15,cabify,transportation,26087.0
+2024-10-15,cabify,transportation,14801.0
+2024-11-30,uber,transportation,24471.0
+2024-12-17,uber,transportation,24999.0
+2024-08-31,uber,transportation,21920.0
+2024-10-17,cabify,transportation,16325.0
+2024-10-17,cabify,transportation,14149.0
+2024-12-14,uber,transportation,7200.0
+2024-12-08,uber,transportation,26327.0
+2024-12-09,uber,transportation,40755.0
+2024-12-08,uber,transportation,333660.0
+2024-12-24,uber,transportation,45781.0
+2024-12-06,uber,transportation,52040.0
+2024-10-15,cabify,transportation,17645.0
+2024-10-15,cabify,transportation,19648.0
+2024-02-26,cabify,transportation,38185.0
+2024-10-16,cabify,transportation,21260.0
+2024-06-25,cabify,transportation,28721.0
+2024-02-25,cabify,transportation,77265.0
+2024-09-15,cabify,transportation,15528.0
+2024-10-16,cabify,transportation,38285.0
+2024-06-03,cabify,transportation,52697.0
+2024-12-07,uber,transportation,45413.0
+2024-11-11,cabify,transportation,14804.0
+2024-07-20,cabify,transportation,16633.0
+2024-11-13,cabify,transportation,19199.0
+2024-07-04,cabify,transportation,36043.0
+2024-07-25,cabify,transportation,37650.0
+2024-09-09,cabify,transportation,13292.0
+2024-09-01,cabify,transportation,30304.0
+2024-07-13,cabify,transportation,56604.0
+2024-10-12,cabify,transportation,17902.0
+2024-10-06,cabify,transportation,32164.0
+2024-10-05,cabify,transportation,30843.0
+2024-08-18,cabify,transportation,35822.0
+2024-09-14,cabify,transportation,76128.0
+2024-08-30,cabify,transportation,23762.0
+2024-07-09,cabify,transportation,8229.0
+2024-11-11,cabify,transportation,18865.0
+2024-07-07,cabify,transportation,31318.0
+2024-07-06,cabify,transportation,15108.0
+2024-07-05,cabify,transportation,31054.0
+2024-07-03,cabify,transportation,23841.0
+2024-08-31,cabify,transportation,16619.0
+2024-07-12,cabify,transportation,81701.0
+2024-08-14,cabify,transportation,22139.0
+2024-08-13,cabify,transportation,68010.0
+2024-08-10,cabify,transportation,74271.0
+2025-03-07,minca,transportation,255000.0
+2024-11-28,minca,transportation,135000.0
+2024-11-26,minca,transportation,35000.0
+2024-12-06,parking,transportation,30000.0
+2024-12-11,parking,transportation,8000.0
+2024-12-05,parking,transportation,1300.0
+2024-07-06,central parking,transportation,700.0
+2024-12-11,car renting,transportation,352000.0
+2024-07-30,cabify,transportation,29929.0
+2024-08-07,cabify,transportation,14877.0
+2024-07-26,cabify,transportation,43313.0
+2024-07-27,cabify,transportation,49636.0
+2024-07-29,cabify,transportation,49334.0
+2024-07-31,cabify,transportation,30363.0
+2024-08-17,cabify,transportation,51412.0
+2024-08-15,cabify,transportation,33950.0
+2024-08-08,cabify,transportation,44269.0
+2024-08-16,cabify,transportation,40496.0
+2024-08-01,cabify,transportation,35736.0
+2024-07-14,cabify,transportation,29701.0
+2024-08-20,cabify,transportation,28341.0
+2024-07-08,cabify,transportation,33655.0
+2024-07-24,cabify,transportation,29117.0
+2024-12-05,cabify,transportation,17344.0
+2024-12-02,cabify,transportation,18480.0
+2024-12-02,cabify,transportation,25858.0
+2024-08-23,cabify,transportation,30452.0
+2024-12-01,cabify,transportation,16461.0
+2024-12-01,cabify,transportation,21731.0
+2024-12-01,cabify,transportation,15078.0
+2024-11-29,cabify,transportation,100.0
+2024-11-29,cabify,transportation,31549.0
+2024-12-05,cabify,transportation,21513.0
+2024-11-29,cabify,transportation,21536.0
+2024-11-26,cabify,transportation,24960.0
+2024-11-26,cabify,transportation,16208.0
+2024-11-23,cabify,transportation,16428.0
+2024-11-23,cabify,transportation,14717.0
+2024-11-17,cabify,transportation,13748.0
+2024-11-17,cabify,transportation,15745.0
+2024-11-16,cabify,transportation,7968.0
+2024-11-15,cabify,transportation,15302.0
+2024-11-15,cabify,transportation,15302.0
+2024-11-26,cabify,transportation,18942.0
+2024-12-06,cabify,transportation,15144.0
+2024-02-14,cabify,transportation,7909.0
+2024-12-02,cabify,transportation,19448.0
+2024-07-23,cabify,transportation,17228.0
+2024-07-21,cabify,transportation,39050.0
+2024-07-19,cabify,transportation,40500.0
+2024-08-21,cabify,transportation,28917.0
+2024-12-07,cabify,transportation,16559.0
+2024-07-15,cabify,transportation,14945.0
+2024-07-18,cabify,transportation,61300.0
+2024-07-17,cabify,transportation,30685.0
+2024-08-05,cabify,transportation,12762.0
+2024-08-24,cabify,transportation,14931.0
+2024-07-16,cabify,transportation,32626.0
+2024-08-28,cabify,transportation,46724.0
+2024-09-15,cabify,transportation,9925.0
+2024-08-02,cabify,transportation,25441.0
+2024-08-27,cabify,transportation,13865.0
+2025-02-27,tigo,utilities,76410.0
+2025-01-19,acueducto,utilities,416839.0
+2024-11-11,admon tds,utilities,1000000.0
+2024-11-13,aseo,utilities,250000.0
+2025-02-28,vanti,utilities,95310.0
+2024-12-01,enel,utilities,163500.0
+2024-12-01,vanti,utilities,70280.0
+2025-01-28,etb,utilities,120060.0
+2025-02-28,etb,utilities,120060.0
+2025-02-28,enel,utilities,173350.0
+2024-08-30,enel,utilities,157810.0
+2024-05-30,vanti,utilities,59470.0
+2024-08-30,vanti,utilities,67220.0
+2025-02-27,tigo,utilities,99311.0
+2024-10-23,etb,utilities,114820.0
+2024-12-02,acueducto,utilities,727895.0
+2024-10-08,enel,utilities,132850.0
+2024-10-07,vanti,utilities,68630.0
+2024-10-07,tigo,utilities,80753.0
+2024-10-16,certificado l&t,,20900.0
+2024-10-09,inkanta,,69000.0
+2024-10-07,panamericana,,5400.0
+2024-11-07,phone accesories,,200000.0
+2024-11-13,,,10500.0
+2024-11-22,,,42697.0
+2024-11-23,,,35000.0
+2024-11-23,,,55000.0
+2024-11-24,,,416000.0
+2024-11-24,,,6000.0
+2024-11-26,,,52956.0
+2024-11-26,,,53000.0
+2024-11-27,,,62240.0
+2024-11-29,,,245823.0
+2024-12-08,,,89162.0
+2024-12-12,,,60599.0
+2024-12-13,,,282000.0
+2024-12-20,,,2400.0
+2024-12-21,,,12800.0
+2025-01-03,,,200000.0
+2025-01-21,,,303055.0
